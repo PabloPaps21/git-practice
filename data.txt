@@ -1,3 +1,4 @@
 Name: PAPS
 Age: 24 
 Favorite color: blue
+Favorite food: chicharron
